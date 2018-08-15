@@ -1,11 +1,12 @@
 package main
 
 import (
-	"crawler.center/log.analsis.center/parser"
 	"fmt"
 	"log"
 	"regexp"
 	"strings"
+
+	"../parser" //TODO
 )
 
 func main() {
